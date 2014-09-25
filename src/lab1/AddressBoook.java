@@ -28,8 +28,7 @@ AddressBoook.remove(index);
 
 
 public void addBuddy(BuddyInfo abuddy){
-AddressBoook.add(abuddy);
-}
+AddressBoook.add(abuddy);}
 }
 
 
